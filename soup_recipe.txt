@@ -1,0 +1,8 @@
+$ cat soup_recipe.txt
+#! this is hypothetical soup recipe
+1. boil water
+2. chop the onoion
+4. add veggie
+5. crackers
+6. eat
+7. dd
