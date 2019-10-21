@@ -6,3 +6,4 @@ $ cat soup_recipe.txt
 5. crackers
 6. eat
 7. dd
+8. tam
